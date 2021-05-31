@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Hanieh 👋
 
 I am a junior web developer with a strong passion for learning new skills, looking for a new challenge in software development. 
 I am always aiming to do my best and achieve my goals. 
