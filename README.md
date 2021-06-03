@@ -7,8 +7,7 @@ I am always aiming to do my best and achieve my goals.
   <img align="left" alt="Hanieh LinkdeIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;">
 </a>
 <br>
-
-
+<br>
 
 - 🔭 I’m currently studying full-stack web development in Hack Your Future Coding Bootcamp.
 - 🌱 I’m learning HTML, CSS, JavaScript, React, NodeJS,and MySQL.
