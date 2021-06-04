@@ -13,6 +13,6 @@ I am always aiming to do my best and achieve my goals.
 - 🌱 I’m learning HTML, CSS, JavaScript, React, NodeJS,and MySQL.
 - 🤔 I’m looking for productive collaborations 🤝
 - 💬 Ask me about anything, I will try my best.
-- 📫 How to reach me: hfarjamy@gmail.com or my <a href="https://www.linkedin.com/in/haniehfarjami/" rel="nofollow" target="_blank">LinkedIn</a>
+- 📫 How to reach me: hfarjamy@gmail.com or my <a href="https://www.linkedin.com/in/haniehfarjami/" rel="nofollow" target="_blank" >LinkedIn</a>
 - 😄 Pronouns: self learner, curious, teamplayer 🙋‍♀️
 - ⚡ Fun fact: I can't live without playing games :video_game:
