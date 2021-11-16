@@ -9,7 +9,7 @@ I am always aiming to do my best and achieve my goals.
 <br>
 <br>
 
-- 🔭 I’m studied full-stack web development in Hack Your Future Coding Bootcamp.
+- 🔭 I studied full-stack web development in Hack Your Future Coding Bootcamp.
 - 🌱 I’m currently improving my C# .Net knowledge .
 - 🤔 I’m looking for productive collaborations 🤝
 - 💬 Ask me about anything, I will try my best.
