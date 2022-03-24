@@ -10,9 +10,9 @@ I am always aiming to do my best and achieve my goals.
 <br>
 
 - 🔭 I studied full-stack web development in Hack Your Future Coding Bootcamp.
-- 🌱 I’m currently improving my C# .Net knowledge .
+- 🌱 I’m currently working as a web developer and improving my C# .Net knowledge .
 - 🤔 I’m looking for productive collaborations 🤝
-- 💬 Ask me about anything, I will try my best.
+- 💬 Ask me about anything, I will try my best to find the solution.
 - 📫 How to reach me: hfarjamy@gmail.com or my <a href="https://www.linkedin.com/in/haniehfarjami/" rel="nofollow" target="_blank" >LinkedIn</a>
 - 😄 Pronouns: self learner, curious, teamplayer 🙋‍♀️
 - ⚡ Fun fact: I can't live without playing games :video_game:
